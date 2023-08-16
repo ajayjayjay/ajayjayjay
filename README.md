@@ -1,5 +1,5 @@
 ### Hi there 👋
-test
+- 🔭 I’m currently working on advancing my Python skills through Harvard's CS50P course!
 <!--
 **ajayjayjay/ajayjayjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
