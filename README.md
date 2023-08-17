@@ -1,7 +1,6 @@
 # Hi, I'm Ajay 😄
-## test
-### test
-**Python developer**
+### 
+<Python developer>
 - 🔭 I’m currently working on mastering Python through Harvard's CS50P course!
 - 🤔 I’m looking for help with automating cybersecurity tasks
 
