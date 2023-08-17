@@ -1,6 +1,8 @@
 # Ajay Gadwal 😄
 **Python developer**
-- 🔭 I’m currently working on advancing my Python skills through Harvard's CS50P course!
+- 🔭 I’m currently working on mastering Python through Harvard's CS50P course!
+- 🤔 I’m looking for help with automating cybersecurity tasks
+
 <!--
 **ajayjayjay/ajayjayjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
